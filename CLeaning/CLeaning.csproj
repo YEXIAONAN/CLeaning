@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<StartupObject>Cleaning.HelloWorld</StartupObject>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NPOI" Version="2.7.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resource\" />
+  </ItemGroup>
+
+</Project>
