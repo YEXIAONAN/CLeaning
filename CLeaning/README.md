@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> 本项目旨在为本人在校外自学 C# 提供实践平台，记录学习过程与代码积累。
+> 本项目旨在为本人记录学习过程与代码积累。
 
 ---
 
