@@ -12,8 +12,4 @@
     <PackageReference Include="NPOI" Version="2.7.3" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Resource\" />
-  </ItemGroup>
-
 </Project>
